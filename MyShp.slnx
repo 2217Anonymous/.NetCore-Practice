@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="MyShop.Application/MyShop.Application.csproj" Id="72b5e79b-5d9a-4310-a951-ea4b50abaaa2" />
+    <Project Path="MYShop.Domain/MyShop.Domain.csproj" Id="e32e889f-3d16-40d7-87d2-7de596b97a17" />
+    <Project Path="MyShop.Infrastructure/MyShop.Infrastructure.csproj" Id="2c1b9c9d-6971-4004-bd4c-13c2d8e14d9a" />
+    <Project Path="MyShop/MyShop.csproj" />
+  </Folder>
+</Solution>

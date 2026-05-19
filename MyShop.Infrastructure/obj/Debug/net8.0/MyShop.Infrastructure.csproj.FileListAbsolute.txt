@@ -1,0 +1,17 @@
+D:\Venkat\.NetCore\MyShp\MyShop.Infrastructure\bin\Debug\net8.0\MyShop.Infrastructure.deps.json
+D:\Venkat\.NetCore\MyShp\MyShop.Infrastructure\bin\Debug\net8.0\MyShop.Infrastructure.runtimeconfig.json
+D:\Venkat\.NetCore\MyShp\MyShop.Infrastructure\bin\Debug\net8.0\MyShop.Infrastructure.dll
+D:\Venkat\.NetCore\MyShp\MyShop.Infrastructure\bin\Debug\net8.0\MyShop.Infrastructure.pdb
+D:\Venkat\.NetCore\MyShp\MyShop.Infrastructure\bin\Debug\net8.0\MyShop.Domain.dll
+D:\Venkat\.NetCore\MyShp\MyShop.Infrastructure\bin\Debug\net8.0\MyShop.Domain.pdb
+D:\Venkat\.NetCore\MyShp\MyShop.Infrastructure\obj\Debug\net8.0\MyShop.Infrastructure.csproj.AssemblyReference.cache
+D:\Venkat\.NetCore\MyShp\MyShop.Infrastructure\obj\Debug\net8.0\MyShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Venkat\.NetCore\MyShp\MyShop.Infrastructure\obj\Debug\net8.0\MyShop.Infrastructure.AssemblyInfoInputs.cache
+D:\Venkat\.NetCore\MyShp\MyShop.Infrastructure\obj\Debug\net8.0\MyShop.Infrastructure.AssemblyInfo.cs
+D:\Venkat\.NetCore\MyShp\MyShop.Infrastructure\obj\Debug\net8.0\MyShop.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Venkat\.NetCore\MyShp\MyShop.Infrastructure\obj\Debug\net8.0\MyShop.I.D59043A8.Up2Date
+D:\Venkat\.NetCore\MyShp\MyShop.Infrastructure\obj\Debug\net8.0\MyShop.Infrastructure.dll
+D:\Venkat\.NetCore\MyShp\MyShop.Infrastructure\obj\Debug\net8.0\refint\MyShop.Infrastructure.dll
+D:\Venkat\.NetCore\MyShp\MyShop.Infrastructure\obj\Debug\net8.0\MyShop.Infrastructure.pdb
+D:\Venkat\.NetCore\MyShp\MyShop.Infrastructure\obj\Debug\net8.0\MyShop.Infrastructure.genruntimeconfig.cache
+D:\Venkat\.NetCore\MyShp\MyShop.Infrastructure\obj\Debug\net8.0\ref\MyShop.Infrastructure.dll

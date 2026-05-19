@@ -1,0 +1,15 @@
+D:\Venkat\.NetCore\MyShp\MyShop.Application\bin\Debug\net8.0\MyShop.Application.deps.json
+D:\Venkat\.NetCore\MyShp\MyShop.Application\bin\Debug\net8.0\MyShop.Application.dll
+D:\Venkat\.NetCore\MyShp\MyShop.Application\bin\Debug\net8.0\MyShop.Application.pdb
+D:\Venkat\.NetCore\MyShp\MyShop.Application\bin\Debug\net8.0\MyShop.Domain.dll
+D:\Venkat\.NetCore\MyShp\MyShop.Application\bin\Debug\net8.0\MyShop.Domain.pdb
+D:\Venkat\.NetCore\MyShp\MyShop.Application\obj\Debug\net8.0\MyShop.Application.csproj.AssemblyReference.cache
+D:\Venkat\.NetCore\MyShp\MyShop.Application\obj\Debug\net8.0\MyShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Venkat\.NetCore\MyShp\MyShop.Application\obj\Debug\net8.0\MyShop.Application.AssemblyInfoInputs.cache
+D:\Venkat\.NetCore\MyShp\MyShop.Application\obj\Debug\net8.0\MyShop.Application.AssemblyInfo.cs
+D:\Venkat\.NetCore\MyShp\MyShop.Application\obj\Debug\net8.0\MyShop.Application.csproj.CoreCompileInputs.cache
+D:\Venkat\.NetCore\MyShp\MyShop.Application\obj\Debug\net8.0\MyShop.A.D52B9BDA.Up2Date
+D:\Venkat\.NetCore\MyShp\MyShop.Application\obj\Debug\net8.0\MyShop.Application.dll
+D:\Venkat\.NetCore\MyShp\MyShop.Application\obj\Debug\net8.0\refint\MyShop.Application.dll
+D:\Venkat\.NetCore\MyShp\MyShop.Application\obj\Debug\net8.0\MyShop.Application.pdb
+D:\Venkat\.NetCore\MyShp\MyShop.Application\obj\Debug\net8.0\ref\MyShop.Application.dll

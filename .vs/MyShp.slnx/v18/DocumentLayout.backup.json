@@ -1,0 +1,464 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Venkat\\.NetCore\\MyShp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|d:\\venkat\\.netcore\\myshp\\myshop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|solutionrelative:myshop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|d:\\venkat\\.netcore\\myshp\\myshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|solutionrelative:myshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|d:\\venkat\\.netcore\\myshp\\myshop\\myshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|solutionrelative:myshop\\myshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B5E79B-5D9A-4310-A951-EA4B50ABAAA2}|MyShop.Application\\MyShop.Application.csproj|d:\\venkat\\.netcore\\myshp\\myshop.application\\applicationregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B5E79B-5D9A-4310-A951-EA4B50ABAAA2}|MyShop.Application\\MyShop.Application.csproj|solutionrelative:myshop.application\\applicationregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B5E79B-5D9A-4310-A951-EA4B50ABAAA2}|MyShop.Application\\MyShop.Application.csproj|d:\\venkat\\.netcore\\myshp\\myshop.application\\myshop.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72B5E79B-5D9A-4310-A951-EA4B50ABAAA2}|MyShop.Application\\MyShop.Application.csproj|solutionrelative:myshop.application\\myshop.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B5E79B-5D9A-4310-A951-EA4B50ABAAA2}|MyShop.Application\\MyShop.Application.csproj|d:\\venkat\\.netcore\\myshp\\myshop.application\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B5E79B-5D9A-4310-A951-EA4B50ABAAA2}|MyShop.Application\\MyShop.Application.csproj|solutionrelative:myshop.application\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B5E79B-5D9A-4310-A951-EA4B50ABAAA2}|MyShop.Application\\MyShop.Application.csproj|d:\\venkat\\.netcore\\myshp\\myshop.application\\common\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B5E79B-5D9A-4310-A951-EA4B50ABAAA2}|MyShop.Application\\MyShop.Application.csproj|solutionrelative:myshop.application\\common\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B5E79B-5D9A-4310-A951-EA4B50ABAAA2}|MyShop.Application\\MyShop.Application.csproj|d:\\venkat\\.netcore\\myshp\\myshop.application\\dto\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B5E79B-5D9A-4310-A951-EA4B50ABAAA2}|MyShop.Application\\MyShop.Application.csproj|solutionrelative:myshop.application\\dto\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32E889F-3D16-40D7-87D2-7DE596B97A17}|MYShop.Domain\\MyShop.Domain.csproj|d:\\venkat\\.netcore\\myshp\\myshop.domain\\contracts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32E889F-3D16-40D7-87D2-7DE596B97A17}|MYShop.Domain\\MyShop.Domain.csproj|solutionrelative:myshop.domain\\contracts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B5E79B-5D9A-4310-A951-EA4B50ABAAA2}|MyShop.Application\\MyShop.Application.csproj|d:\\venkat\\.netcore\\myshp\\myshop.application\\service\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B5E79B-5D9A-4310-A951-EA4B50ABAAA2}|MyShop.Application\\MyShop.Application.csproj|solutionrelative:myshop.application\\service\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B5E79B-5D9A-4310-A951-EA4B50ABAAA2}|MyShop.Application\\MyShop.Application.csproj|d:\\venkat\\.netcore\\myshp\\myshop.application\\dto\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B5E79B-5D9A-4310-A951-EA4B50ABAAA2}|MyShop.Application\\MyShop.Application.csproj|solutionrelative:myshop.application\\dto\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B5E79B-5D9A-4310-A951-EA4B50ABAAA2}|MyShop.Application\\MyShop.Application.csproj|d:\\venkat\\.netcore\\myshp\\myshop.application\\dto\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B5E79B-5D9A-4310-A951-EA4B50ABAAA2}|MyShop.Application\\MyShop.Application.csproj|solutionrelative:myshop.application\\dto\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1B9C9D-6971-4004-BD4C-13C2D8E14D9A}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|d:\\venkat\\.netcore\\myshp\\myshop.infrastructure\\repositories\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1B9C9D-6971-4004-BD4C-13C2D8E14D9A}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|solutionrelative:myshop.infrastructure\\repositories\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1B9C9D-6971-4004-BD4C-13C2D8E14D9A}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|d:\\venkat\\.netcore\\myshp\\myshop.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1B9C9D-6971-4004-BD4C-13C2D8E14D9A}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|solutionrelative:myshop.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32E889F-3D16-40D7-87D2-7DE596B97A17}|MYShop.Domain\\MyShop.Domain.csproj|d:\\venkat\\.netcore\\myshp\\myshop.domain\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32E889F-3D16-40D7-87D2-7DE596B97A17}|MYShop.Domain\\MyShop.Domain.csproj|solutionrelative:myshop.domain\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1B9C9D-6971-4004-BD4C-13C2D8E14D9A}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|d:\\venkat\\.netcore\\myshp\\myshop.infrastructure\\infrastructureregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1B9C9D-6971-4004-BD4C-13C2D8E14D9A}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|solutionrelative:myshop.infrastructure\\infrastructureregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1B9C9D-6971-4004-BD4C-13C2D8E14D9A}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|d:\\venkat\\.netcore\\myshp\\myshop.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1B9C9D-6971-4004-BD4C-13C2D8E14D9A}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|solutionrelative:myshop.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32E889F-3D16-40D7-87D2-7DE596B97A17}|MYShop.Domain\\MyShop.Domain.csproj|d:\\venkat\\.netcore\\myshp\\myshop.domain\\common\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32E889F-3D16-40D7-87D2-7DE596B97A17}|MYShop.Domain\\MyShop.Domain.csproj|solutionrelative:myshop.domain\\common\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|d:\\venkat\\.netcore\\myshp\\myshop\\myshop.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|solutionrelative:myshop\\myshop.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1B9C9D-6971-4004-BD4C-13C2D8E14D9A}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|d:\\venkat\\.netcore\\myshp\\myshop.infrastructure\\myshop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C1B9C9D-6971-4004-BD4C-13C2D8E14D9A}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|solutionrelative:myshop.infrastructure\\myshop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32E889F-3D16-40D7-87D2-7DE596B97A17}|MYShop.Domain\\MyShop.Domain.csproj|d:\\venkat\\.netcore\\myshp\\myshop.domain\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32E889F-3D16-40D7-87D2-7DE596B97A17}|MYShop.Domain\\MyShop.Domain.csproj|solutionrelative:myshop.domain\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32E889F-3D16-40D7-87D2-7DE596B97A17}|MYShop.Domain\\MyShop.Domain.csproj|d:\\venkat\\.netcore\\myshp\\myshop.domain\\myshop.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E32E889F-3D16-40D7-87D2-7DE596B97A17}|MYShop.Domain\\MyShop.Domain.csproj|solutionrelative:myshop.domain\\myshop.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|d:\\venkat\\.netcore\\myshp\\myshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|solutionrelative:myshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Venkat\\.NetCore\\MyShp\\MyShop\\Migrations\\20260512021543_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyShop\\Migrations\\20260512021543_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1B9C9D-6971-4004-BD4C-13C2D8E14D9A}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|d:\\venkat\\.netcore\\myshp\\myshop.infrastructure\\migrations\\20260513033720_basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1B9C9D-6971-4004-BD4C-13C2D8E14D9A}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|solutionrelative:myshop.infrastructure\\migrations\\20260513033720_basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1B9C9D-6971-4004-BD4C-13C2D8E14D9A}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|d:\\venkat\\.netcore\\myshp\\myshop.infrastructure\\migrations\\20260513032129_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1B9C9D-6971-4004-BD4C-13C2D8E14D9A}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|solutionrelative:myshop.infrastructure\\migrations\\20260513032129_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationRegistration.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Application\\ApplicationRegistration.cs",
+              "RelativeDocumentMoniker": "MyShop.Application\\ApplicationRegistration.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Application\\ApplicationRegistration.cs",
+              "RelativeToolTip": "MyShop.Application\\ApplicationRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T03:07:38.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Application\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "MyShop.Application\\Service\\CategoryService.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Application\\Service\\CategoryService.cs",
+              "RelativeToolTip": "MyShop.Application\\Service\\CategoryService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA9wDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T02:47:38.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop\\Program.cs",
+              "RelativeDocumentMoniker": "MyShop\\Program.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop\\Program.cs",
+              "RelativeToolTip": "MyShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T01:44:27.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyShop.csproj",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop\\MyShop.csproj",
+              "RelativeDocumentMoniker": "MyShop\\MyShop.csproj",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop\\MyShop.csproj",
+              "RelativeToolTip": "MyShop\\MyShop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T01:37:22.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MyShop\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MyShop\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:50:34.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Application\\Common\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MyShop.Application\\Common\\MappingProfile.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Application\\Common\\MappingProfile.cs",
+              "RelativeToolTip": "MyShop.Application\\Common\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T02:59:08.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Application\\DTO\\Category\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "MyShop.Application\\DTO\\Category\\CreateCategoryDto.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Application\\DTO\\Category\\CreateCategoryDto.cs",
+              "RelativeToolTip": "MyShop.Application\\DTO\\Category\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T02:40:13.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MYShop.Domain\\Contracts\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "MYShop.Domain\\Contracts\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MYShop.Domain\\Contracts\\ICategoryRepository.cs",
+              "RelativeToolTip": "MYShop.Domain\\Contracts\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T03:18:34.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyShop.Application.csproj",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Application\\MyShop.Application.csproj",
+              "RelativeDocumentMoniker": "MyShop.Application\\MyShop.Application.csproj",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Application\\MyShop.Application.csproj",
+              "RelativeToolTip": "MyShop.Application\\MyShop.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-13T02:58:42.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Application\\Service\\Interface\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "MyShop.Application\\Service\\Interface\\ICategoryService.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Application\\Service\\Interface\\ICategoryService.cs",
+              "RelativeToolTip": "MyShop.Application\\Service\\Interface\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T02:43:15.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Application\\DTO\\Category\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "MyShop.Application\\DTO\\Category\\CategoryDto.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Application\\DTO\\Category\\CategoryDto.cs",
+              "RelativeToolTip": "MyShop.Application\\DTO\\Category\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T02:40:47.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateCategoryDto.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Application\\DTO\\Category\\UpdateCategoryDto.cs",
+              "RelativeDocumentMoniker": "MyShop.Application\\DTO\\Category\\UpdateCategoryDto.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Application\\DTO\\Category\\UpdateCategoryDto.cs",
+              "RelativeToolTip": "MyShop.Application\\DTO\\Category\\UpdateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T02:40:31.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "MyShop.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "MyShop.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T03:20:48.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Generic.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Infrastructure\\Repositories\\Generic.cs",
+              "RelativeDocumentMoniker": "MyShop.Infrastructure\\Repositories\\Generic.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Infrastructure\\Repositories\\Generic.cs",
+              "RelativeToolTip": "MyShop.Infrastructure\\Repositories\\Generic.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T03:57:10.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MYShop.Domain\\Contracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "MYShop.Domain\\Contracts\\IGenericRepository.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MYShop.Domain\\Contracts\\IGenericRepository.cs",
+              "RelativeToolTip": "MYShop.Domain\\Contracts\\IGenericRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T03:51:31.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InfrastructureRegisteration.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Infrastructure\\InfrastructureRegisteration.cs",
+              "RelativeDocumentMoniker": "MyShop.Infrastructure\\InfrastructureRegisteration.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Infrastructure\\InfrastructureRegisteration.cs",
+              "RelativeToolTip": "MyShop.Infrastructure\\InfrastructureRegisteration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T05:22:34.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MyShop.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MyShop.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T03:00:48.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MYShop.Domain\\Common\\BaseModel.cs",
+              "RelativeDocumentMoniker": "MYShop.Domain\\Common\\BaseModel.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MYShop.Domain\\Common\\BaseModel.cs",
+              "RelativeToolTip": "MYShop.Domain\\Common\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T03:26:57.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyShop.http",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop\\MyShop.http",
+              "RelativeDocumentMoniker": "MyShop\\MyShop.http",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop\\MyShop.http",
+              "RelativeToolTip": "MyShop\\MyShop.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-12T01:31:49.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyShop.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MyShop.Infrastructure\\MyShop.Infrastructure.csproj",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj",
+              "RelativeToolTip": "MyShop.Infrastructure\\MyShop.Infrastructure.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwA4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-13T02:58:54.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20260513033720_basemodel.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Infrastructure\\Migrations\\20260513033720_basemodel.cs",
+              "RelativeDocumentMoniker": "MyShop.Infrastructure\\Migrations\\20260513033720_basemodel.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Infrastructure\\Migrations\\20260513033720_basemodel.cs",
+              "RelativeToolTip": "MyShop.Infrastructure\\Migrations\\20260513033720_basemodel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T03:37:20.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop\\appsettings.json",
+              "RelativeDocumentMoniker": "MyShop\\appsettings.json",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop\\appsettings.json",
+              "RelativeToolTip": "MyShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-12T01:44:29.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MYShop.Domain\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MYShop.Domain\\Models\\Category.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MYShop.Domain\\Models\\Category.cs",
+              "RelativeToolTip": "MYShop.Domain\\Models\\Category.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T02:57:11.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20260513032129_initmigration.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Infrastructure\\Migrations\\20260513032129_initmigration.cs",
+              "RelativeDocumentMoniker": "MyShop.Infrastructure\\Migrations\\20260513032129_initmigration.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop.Infrastructure\\Migrations\\20260513032129_initmigration.cs",
+              "RelativeToolTip": "MyShop.Infrastructure\\Migrations\\20260513032129_initmigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T03:21:29.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MyShop.Domain.csproj",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MYShop.Domain\\MyShop.Domain.csproj",
+              "RelativeDocumentMoniker": "MYShop.Domain\\MyShop.Domain.csproj",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MYShop.Domain\\MyShop.Domain.csproj",
+              "RelativeToolTip": "MYShop.Domain\\MyShop.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-13T02:58:29.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260512021543_initmigration.cs",
+              "DocumentMoniker": "D:\\Venkat\\.NetCore\\MyShp\\MyShop\\Migrations\\20260512021543_initmigration.cs",
+              "RelativeDocumentMoniker": "MyShop\\Migrations\\20260512021543_initmigration.cs",
+              "ToolTip": "D:\\Venkat\\.NetCore\\MyShp\\MyShop\\Migrations\\20260512021543_initmigration.cs",
+              "RelativeToolTip": "MyShop\\Migrations\\20260512021543_initmigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:15:44.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
