@@ -8,6 +8,7 @@ D:\Venkat\.NetCore\MyShp\MyShop.Application\obj\Debug\net8.0\MyShop.Application.
 D:\Venkat\.NetCore\MyShp\MyShop.Application\obj\Debug\net8.0\MyShop.Application.AssemblyInfoInputs.cache
 D:\Venkat\.NetCore\MyShp\MyShop.Application\obj\Debug\net8.0\MyShop.Application.AssemblyInfo.cs
 D:\Venkat\.NetCore\MyShp\MyShop.Application\obj\Debug\net8.0\MyShop.Application.csproj.CoreCompileInputs.cache
+D:\Venkat\.NetCore\MyShp\MyShop.Application\obj\Debug\net8.0\MyShop.Application.sourcelink.json
 D:\Venkat\.NetCore\MyShp\MyShop.Application\obj\Debug\net8.0\MyShop.A.D52B9BDA.Up2Date
 D:\Venkat\.NetCore\MyShp\MyShop.Application\obj\Debug\net8.0\MyShop.Application.dll
 D:\Venkat\.NetCore\MyShp\MyShop.Application\obj\Debug\net8.0\refint\MyShop.Application.dll

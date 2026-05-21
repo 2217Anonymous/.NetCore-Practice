@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using MyShop.Domain.Models;
 using MYShop.Domain.Models;
 using System;
 using System.Collections.Generic;
@@ -15,5 +16,6 @@ namespace MyShop.Infrastructure.Data
         }
 
         public DbSet<Category> Categories { get; set; }
+        public DbSet<Brand> Brands { get; set; }
     } 
 }

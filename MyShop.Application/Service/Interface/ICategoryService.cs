@@ -12,7 +12,7 @@ namespace MyShop.Application.Service.Interface
         Task<CategoryDto> GetByIdAsync(int id);
         Task<IEnumerable<CategoryDto>> GetAllAsync();
         Task<CategoryDto> CreateAsync(CreateCategoryDto createCategoryDto);
-        Task UpdateAsync(UpdateCategoryDto updateCategoryDto);
+        Task UpdateAsync(UpdateCategoryDto updateCategoryDto);  
         Task DeleteAsync(int id);
     }
 }

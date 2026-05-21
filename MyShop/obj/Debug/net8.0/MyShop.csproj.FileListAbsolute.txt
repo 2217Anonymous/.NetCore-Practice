@@ -1,3 +1,12 @@
+D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\MyShop.csproj.AssemblyReference.cache
+D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\MyShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\MyShop.AssemblyInfoInputs.cache
+D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\MyShop.AssemblyInfo.cs
+D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\MyShop.csproj.CoreCompileInputs.cache
+D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\MyShop.MvcApplicationPartsAssemblyInfo.cs
+D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\MyShop.MvcApplicationPartsAssemblyInfo.cache
+D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\MyShop.sourcelink.json
 D:\Venkat\.NetCore\MyShp\MyShop\bin\Debug\net8.0\appsettings.Development.json
 D:\Venkat\.NetCore\MyShp\MyShop\bin\Debug\net8.0\appsettings.json
 D:\Venkat\.NetCore\MyShp\MyShop\bin\Debug\net8.0\MyShop.staticwebassets.endpoints.json
@@ -131,14 +140,6 @@ D:\Venkat\.NetCore\MyShp\MyShop\bin\Debug\net8.0\MyShop.Infrastructure.dll
 D:\Venkat\.NetCore\MyShp\MyShop\bin\Debug\net8.0\MyShop.Application.pdb
 D:\Venkat\.NetCore\MyShp\MyShop\bin\Debug\net8.0\MyShop.Infrastructure.pdb
 D:\Venkat\.NetCore\MyShp\MyShop\bin\Debug\net8.0\MyShop.Domain.pdb
-D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\MyShop.csproj.AssemblyReference.cache
-D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\rpswa.dswa.cache.json
-D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\MyShop.GeneratedMSBuildEditorConfig.editorconfig
-D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\MyShop.AssemblyInfoInputs.cache
-D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\MyShop.AssemblyInfo.cs
-D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\MyShop.csproj.CoreCompileInputs.cache
-D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\MyShop.MvcApplicationPartsAssemblyInfo.cs
-D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\MyShop.MvcApplicationPartsAssemblyInfo.cache
 D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\rjimswa.dswa.cache.json
 D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 D:\Venkat\.NetCore\MyShp\MyShop\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
